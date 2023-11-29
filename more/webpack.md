@@ -1,4 +1,4 @@
-# Webpack Detailed README
+# Webpack
 
 ## What is Webpack?
 

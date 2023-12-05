@@ -63,4 +63,6 @@ Deploying a MERN (MongoDB, Express.js, React, Node.js) stack application, with t
 
 ### Week1
 
+- [day 1](https://youtu.be/fne9NAzb0xs)
+
 </details>
